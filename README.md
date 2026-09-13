@@ -80,8 +80,8 @@ Menu:
 
 Berikut adalah demonstrasi alur kerja dan pengujian program:
 
-<video src="result.mp4" controls width="100%">
-  Browser Anda tidak mendukung pemutaran video. Silakan buka file <a href="result.mp4">result.mp4</a> secara langsung.
+<video src="https://raw.githubusercontent.com/Dhon23/playlist-assignment-dsaa/main/result.mp4" controls width="100%" style="max-width: 700px;">
+  Browser Anda tidak mendukung pemutaran video. Silakan tonton langsung melalui <a href="https://github.com/Dhon23/playlist-assignment-dsaa/blob/main/result.mp4">link GitHub ini</a>.
 </video>
 
 ---
